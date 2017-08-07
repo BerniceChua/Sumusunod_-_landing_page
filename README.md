@@ -46,11 +46,25 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
 
 
 ### Contributor List (in alphabetical order) - Who Made This?
-- Bernice Anne W. Chua (game developer)
+- Bernice Anne W. Chua (game developer - programming, game design, UX/UI, art direction, music)
   - [GitHub](https://github.com/BerniceChua)
   - [LinkedIn](https://linkedin.com/in/bernicechua415)
   - [Twitter](https://twitter.com/ChuaBernice)
 
+- Junnichi Suko (hummingird modelling & animation)
+  - [see his work here](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:13727)
+
+- Special Thanks To:
+  - UI Consultants
+    - Benjamin Juang
+    - Kelley Au
+    - Arianna Acevedo
+  - Closed Beta Testers / QA Testers / UI Consultants
+    - Kyle Smith
+    - Andrew Peng
+  - Game Dev Incubator & Early Stage Funding
+    - Anita Wong & John Chua
+    - Lucy & Dwight McMillan
 
 ## Feedback
 Bernice welcomes any and all the feedbacks! ^_^  You can use the above links to contact her.
@@ -63,7 +77,7 @@ Please send feedback by [opening a new Issue](https://github.com/BerniceChua/Aug
 2. Choose a font that fits the mood better.  (getting feedback from closed beta)
 3. UI & UX improvements - add option to adjust or mute the music & sounds. (completed)
 4. UI & UX improvements - aethetics/color.  (getting feedback from closed beta)
-5. Add creature sounds
+5. Add creature sounds (OPTIONAL)
 6. Add difficulty levels (easy = slower speed and less variations in movement, medium = a bit faster speed and slightly more variations in movement, difficult = very fast movement speeds and a wide variation in movement).
 7. Add "Relax Mode"
 8. Add different creatures (other flying creatures? but more likely other species of hummingbirds) to choose from? (OPTIONAL)
