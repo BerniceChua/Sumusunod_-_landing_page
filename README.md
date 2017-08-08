@@ -58,7 +58,7 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
   - UI Consultants
     - Benjamin Juang
     - Kelley Au
-    - Arianna Acevedo
+    - Arianna Azevedo
   - Closed Beta Testers / QA Testers / UI Consultants
     - Kyle Smith
     - Andrew Peng
