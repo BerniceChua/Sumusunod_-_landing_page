@@ -62,6 +62,8 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
   - Closed Beta Testers / QA Testers / UI Consultants
     - Kyle Smith
     - Andrew Peng
+  - Extra Hardware Provided By:
+    - Diana Greer
   - Game Dev Incubator & Early Stage Funding
     - Anita Wong & John Chua
     - Lucy & Dwight McMillan
