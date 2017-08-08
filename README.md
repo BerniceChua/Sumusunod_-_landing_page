@@ -1,4 +1,4 @@
-# Augmented_Focus (temporary name)
+# Augmented Focus (temporary name)
 An augmented reality (AR) game that challenges how long a player can keep track of a fidgety creature such as a hummingbird.
 
 ![Screenshot 1 of Main Menu](https://cdn.discordapp.com/attachments/225440274074042368/343550701093388288/Screenshot_2017-08-03-17-01-39.png)
