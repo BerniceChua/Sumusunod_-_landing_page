@@ -65,6 +65,8 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
   - Game Dev Incubator & Early Stage Funding
     - Anita Wong & John Chua
     - Lucy & Dwight McMillan
+  - Advisor
+    - Ashwin Kumar
 
 ## Feedback
 Bernice welcomes any and all the feedbacks! ^_^  You can use the above links to contact her.
