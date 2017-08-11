@@ -54,12 +54,17 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
 - Junnichi Suko (hummingird modelling & animation)
   - [see his work here](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:13727)
 
+- Icon/Logo Design
+  - Bernice Anne W. Chua
+  - Joshua Hue
+
 - Special Thanks To:
   - UI Consultants
     - Benjamin Juang
     - Kelley Au
     - Arianna Azevedo
     - Gary Wong
+    - Audris Joan Kuang
   - Closed Beta Testers / QA Testers / UI Consultants
     - Kyle Smith
     - Andrew Peng
