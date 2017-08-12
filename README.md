@@ -68,6 +68,7 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
   - Closed Beta Testers / QA Testers / UI Consultants
     - Kyle Smith
     - Andrew Peng
+    - Matthew Frank Tom
   - Extra Hardware Provided By:
     - Diana Greer
   - Game Dev Incubator & Early Stage Funding
@@ -75,6 +76,7 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
     - Lucy & Dwight McMillan
   - Advisor
     - Ashwin Kumar
+    - Daniel Doan
 
 ## Feedback
 Bernice welcomes any and all the feedbacks! ^_^  You can use the above links to contact her.
