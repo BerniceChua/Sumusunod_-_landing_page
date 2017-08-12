@@ -74,7 +74,7 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
   - Game Dev Incubator & Early Stage Funding
     - Anita Wong & John Chua
     - Lucy & Dwight McMillan
-  - Advisor
+  - Advisors
     - Ashwin Kumar
     - Daniel Doan
 
