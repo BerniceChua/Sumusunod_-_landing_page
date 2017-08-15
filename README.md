@@ -71,10 +71,12 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
     - Matthew Frank Tom
   - Extra Hardware Provided By:
     - Diana Greer
+    - David Byrd
+    - Madelein Chua
   - Game Dev Incubator & Early Stage Funding
     - Anita Wong & John Chua
     - Lucy & Dwight McMillan
-  - Advisors
+  - Advisers
     - Ashwin Kumar
     - Daniel Doan
 
