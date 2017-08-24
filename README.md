@@ -1,4 +1,4 @@
-# Augmented Focus (temporary name)
+# Sumusunód (formerly called "Augmented Focus")
 An augmented reality (AR) game that challenges how long a player can keep track of a fidgety creature such as a hummingbird.
 
 ![Screenshot 1 of Main Menu](https://cdn.discordapp.com/attachments/225440274074042368/343550701093388288/Screenshot_2017-08-03-17-01-39.png)
@@ -22,13 +22,13 @@ Before playing, please make sure that you have ample space to move around, and t
 5) When the hummingbird leaves the view of the screen, it is game over.
 
 ## About
-"Augmented Focus" uses an Android phone's built-in camera and built-in sensors (specifically the gyroscope) for the AR to orient the phone and the game piece.  
+"Sumusunód" uses an Android phone's built-in camera and built-in sensors (specifically the gyroscope) for the AR to orient the phone and the game piece.  
 
 This is my second project working with 'markerless' augmented reality and using the phone sensors.  
 
 I took the foundations of what I learned from [Dizzy](https://github.com/BerniceChua), and expanded on the gameplay while refactoring/improving the code.  
 
-("Augmented Focus" is just the temporary name, since I haven't thought of a good name yet.  This game is still in closed beta as of now, and will get more features and improvements.)
+(~~"Augmented Focus" is just the temporary name, since I haven't thought of a good name yet.~~  I finally thought of a good name!!  It's "Sumusunód".  This game is still in closed beta as of now, and will get more features and improvements.)
 
 I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ample space to move around, and that you are in a safe area with no people or things that could obstruct your movement or injure you.  
 
@@ -59,13 +59,13 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
   - Joshua Hue
 
 - Special Thanks To:
-  - UI Consultants
+  - UI Design Consultants
     - Benjamin Juang
     - Kelley Au
     - Arianna Azevedo
     - Gary Wong
     - Audris Joan Kuang
-  - Closed Beta Testers / QA Testers / UI Consultants
+  - Closed Beta Testers / QA Testers / UI Design Consultants
     - Kyle Smith
     - Andrew Peng
     - Matthew Frank Tom
@@ -73,6 +73,7 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
     - Diana Greer
     - David Byrd
     - Madelein Chua
+    - Audris Joan Kuang
   - Game Dev Incubator & Early Stage Funding
     - Anita Wong & John Chua
     - Lucy & Dwight McMillan
