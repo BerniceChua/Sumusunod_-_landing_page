@@ -84,7 +84,7 @@ I CANNOT STRESS THIS ENOUGH: Before playing, please make sure that you have ampl
 ## Feedback
 Bernice welcomes any and all the feedbacks! ^_^  You can use the above links to contact her.
 
-Please send feedback by [opening a new Issue](https://github.com/BerniceChua/Augmented_Focus/issues/new), or by [clicking on the Issues tab above](https://github.com/BerniceChua/Augmented_Focus/issues).  Feedback can also be sent to Bernice through the links under her name in the contributor list.
+Please send feedback by [opening a new Issue](~/issues/new), or by [clicking on the Issues tab above](~/issues).  Feedback can also be sent to Bernice through the links under her name in the contributor list.
 
 ## Issues
 ### To-Dos & Stretch Goals:
