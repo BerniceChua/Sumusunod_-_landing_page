@@ -1,5 +1,5 @@
 # Sumusunód (formerly called "Augmented Focus")
-An augmented reality (AR) game that challenges how long a player can keep track of a fidgety creature such as a hummingbird.
+Let nature into your home.  Need to relax?  Play Sumusunód -- an augmented reality (AR) game where you play with creatures like hummingbirds, bumble bees, butterflies, ladybugs, etc.  
 
 ![Screenshot 1 of Main Menu](https://cdn.discordapp.com/attachments/225440274074042368/343550701093388288/Screenshot_2017-08-03-17-01-39.png)
 
@@ -14,12 +14,21 @@ This is the public-facing landing page.  If you want to see the actual code for 
 
 Before playing, please make sure that you have ample space to move around, and that you are in a safe area with no people or things that could obstruct your movement or injure you.  
 
-## How To Play
+## How To Play Focus Mode
 1) Hold the mobile device as if holding a camera to take pictures.  (Don't block the camera lens.)
-2) Move the mobile device to scan for the hummingbird.
-3) Once the hummingbird is found and in the center of the screen, the timer starts.
-4) Move the phone to follow the hummingbird for as much time as possible.
-5) When the hummingbird leaves the view of the screen, it is game over.
+2) Move the mobile device to scan for the flying creature.
+3) Once the flying creature is found and in the center of the screen, the timer starts.
+4) Move the phone to follow the flying creature for as much time as possible.
+5) When the flying creature leaves the view of the screen, it is game over.
+
+- play Focus Mode to unlock more creatures!
+
+## How To Play Challenge Mode
+1) Hold the mobile device as if holding a camera to take pictures.  (Don't block the camera lens.)  
+2) Once the game starts, the timer counts down.
+3) Lead your flying creature to food tapping on the screen.  
+4) If the food is something that your creature can eat, you gain more time.
+5) When the timer runs out, it is game over.
 
 ## About
 "Sumusunód" uses an Android phone's built-in camera and built-in sensors (specifically the gyroscope) for the AR to orient the phone and the game piece.  
